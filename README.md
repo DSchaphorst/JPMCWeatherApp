@@ -11,4 +11,4 @@ Ask the User for location access, If the User gives permission to access the loc
 <h2>What I Did</h2>
 This project is developed in an MVVM architecture using coroutine and GSON packages to handle this data.
 I imported the sample JSON and created objects using the GSON package. Retrieving data via retrofit from the openweathermap API.
-For the UI, I havee used Jetpack Compose and Navigation. For dependency injection, I decided to use Hilt.
+For the UI, I have used Jetpack Compose and Navigation. For dependency injection, I decided to use Hilt.
